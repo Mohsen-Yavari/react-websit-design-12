@@ -1,10 +1,12 @@
 
-import Header from './components/heading/Header';
 import {
   BrowserRouter,
   Routes,
   Route,
 } from "react-router-dom";
+
+import Header from './components/heading/Header';
+import Home from './components/home/Home';
 
 function App() {
   return (
@@ -12,6 +14,7 @@ function App() {
      <BrowserRouter>
      <Header />
     <Routes>
+      <Route path="/" exact element={<Home />} />
    
     </Routes>
   </BrowserRouter>

@@ -8,10 +8,31 @@
 body{
 
   .app{
-    background:rgb(160, 154, 154);
-    width: 100%;
-    height: 100vh;
+  
   }
 }
 
+.flexSB{
+  display: flex;
+  justify-content: space-between;
+}
+
+#heading{
+  text-align: center;
+  padding:40px 0;
+
+  h3{
+    letter-spacing:1px;
+    font-weight: 500;
+    color:#1eb2a6;
+  }
+  h1{
+    font-size: 40px;
+    color:rgb(134, 127, 127);
+  }
+}
+
+p{
+  line-height:30px;
+}
 
