@@ -8,6 +8,36 @@ import c6 from "../src/images/courses/c6.png";
 import c7 from "../src/images/courses/c7.png";
 import c8 from "../src/images/courses/c8.png";
 import c9 from "../src/images/courses/c9.png";
+import bgwomen from "../src/images/back.webp";
+
+// -------img address online-----
+import o1 from "../src/images/courses/online/o1.png";
+import o2 from "../src/images/courses/online/o2.png";
+import o3 from "../src/images/courses/online/o3.png";
+import o4 from "../src/images/courses/online/o4.png";
+import o5 from "../src/images/courses/online/o5.png";
+import o6 from "../src/images/courses/online/o6.png";
+import o7 from "../src/images/courses/online/o7.png";
+import o8 from "../src/images/courses/online/o8.png";
+import o9 from "../src/images/courses/online/o9.png";
+import o10 from "../src/images/courses/online/o10.png";
+import o11 from "../src/images/courses/online/o11.png";
+import o12 from "../src/images/courses/online/o12.png";
+
+import oo1 from "../src/images/courses/online/o1.1.png";
+import oo2 from "../src/images/courses/online/o2.1.png";
+import oo3 from "../src/images/courses/online/o3.1.png";
+import oo4 from "../src/images/courses/online/o4.1.png";
+import oo5 from "../src/images/courses/online/o5.1.png";
+import oo6 from "../src/images/courses/online/o6.1.png";
+import oo7 from "../src/images/courses/online/o7.1.png";
+import oo8 from "../src/images/courses/online/o8.1.png";
+import oo9 from "../src/images/courses/online/o9.1.png";
+import oo10 from "../src/images/courses/online/o10.1.png";
+import oo11 from "../src/images/courses/online/o11.1.png";
+import oo12 from "../src/images/courses/online/o12.1.png";
+
+
 
 
 
@@ -60,200 +90,200 @@ export const homeAbout = [
     {
       id: 1,
       cover: c1,
-      coursesName: "Introducing to Software Engineering",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی  ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by John Smith",
-          totalTime: "50 lectures (190 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$100 All Course",
-      pricePer: "$15 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 2,
       cover: c2,
-      coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی  ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by Ram Gurung",
-          totalTime: "30 lectures (125 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$200 All Course",
-      pricePer: "$25 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 3,
       cover: c3,
-      coursesName: "HTML, CSS, and Javascript for Web Developers",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by Saroj Nepal",
-          totalTime: "50 lectures (50 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$50 All Course",
-      pricePer: "$5 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "$لورم ایپسوم متن ساختگی",
     },
     {
       id: 4,
       cover: c4,
-      coursesName: "Introducing to Programming with WordPress",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی    ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by Prabin Thapa Mager",
-          totalTime: "20 lectures (20 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$30 All Course",
-      pricePer: "$3 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 5,
       cover: c5,
-      coursesName: "Introducing to Programming with ReactJS",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید س",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
-          totalTime: "100 lectures (150 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$300 All Course",
-      pricePer: "$30 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 6,
       cover: c6,
-      coursesName: "Learn Frontend Programming Language",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی ",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Sunil Bishowkaram",
-          totalTime: "200 lectures (300 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$500 All Course",
-      pricePer: "$80 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 7,
       cover: c7,
-      coursesName: "Introducing to with HTML / CSS",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by Price",
-          totalTime: "20 lectures (50 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$20 All Course",
-      pricePer: "$2 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 8,
       cover: c8,
-      coursesName: "Introducing to with JAVA",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی ",
       courTeacher: [
         {
-          dcover: "./images/back.webp",
-          name: "by Petter",
-          totalTime: "80 lectures (200 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$200 All Course",
-      pricePer: "$40 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی",
     },
     {
       id: 9,
       cover: c9,
-      coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+      coursesName: "لورم ایپسوم متن ساختگی با تولید سادگی ",
       courTeacher: [
         {
-          dcover: "../src/images/back.webp",
-          name: "by Petter",
-          totalTime: "50 lectures (50 hrs)",
+          dcover: bgwomen,
+          name: "لورم ایپسوم متن ساختگی",
+          totalTime: "لورم ایپسوم متن ساختگی",
         },
       ],
-      priceAll: "$20 All Course",
-      pricePer: "$3 per month",
+      priceAll: "لورم ایپسوم متن ساختگی",
+      pricePer: "لورم ایپسوم متن ساختگی ",
     },
   ]
   export const online = [
     {
-      cover: "./images/courses/online/o1.png",
-      hoverCover: "./images/courses/online/o1.1.png",
+      cover: o1,
+      hoverCover: oo1,
       courseName: "UI/UX Design Courses",
       course: "25 Courses",
     },
     {
-      cover: "./images/courses/online/o2.png",
-      hoverCover: "./images/courses/online/o2.1.png",
+      cover: o2,
+      hoverCover: oo2,
       courseName: "Art & Design",
       course: "25 Courses",
     },
     {
-      cover: "./images/courses/online/o3.png",
-      hoverCover: "./images/courses/online/o3.1.png",
+      cover: o3,
+      hoverCover: oo3,
       courseName: "Computer Science",
       course: "10 Courses",
     },
     {
-      cover: "./images/courses/online/o4.png",
-      hoverCover: "./images/courses/online/o4.1.png",
+      cover:o4,
+      hoverCover: oo4,
       courseName: "History & Archeologic",
       course: "15 Courses",
     },
     {
-      cover: "./images/courses/online/o5.png",
-      hoverCover: "./images/courses/online/o5.1.png",
+      cover: o5,
+      hoverCover: oo5,
       courseName: "Software Engineering",
       course: "30 Courses",
     },
     {
-      cover: "./images/courses/online/o6.png",
-      hoverCover: "./images/courses/online/o6.1.png",
+      cover: o6,
+      hoverCover: oo6,
       courseName: "Information Software",
       course: "60 Courses",
     },
     {
-      cover: "./images/courses/online/o7.png",
-      hoverCover: "./images/courses/online/o7.1.png",
+      cover: o7,
+      hoverCover: oo7,
       courseName: "Health & Fitness",
       course: "10 Courses",
     },
     {
-      cover: "./images/courses/online/o8.png",
-      hoverCover: "./images/courses/online/o8.1.png",
+      cover: o8,
+      hoverCover: oo8,
       courseName: "Marketing",
       course: "30 Courses",
     },
     {
-      cover: "./images/courses/online/o9.png",
-      hoverCover: "./images/courses/online/o9.1.png",
+      cover: o9,
+      hoverCover: oo9,
       courseName: "Graphic Design",
       course: "80 Courses",
     },
     {
-      cover: "./images/courses/online/o10.png",
-      hoverCover: "./images/courses/online/o10.1.png",
+      cover:o10,
+      hoverCover:oo10,
       courseName: "Music",
       course: "120 Courses",
     },
     {
-      cover: "./images/courses/online/o11.png",
-      hoverCover: "./images/courses/online/o11.1.png",
+      cover: o11,
+      hoverCover:oo11,
       courseName: "Business Administration",
       course: "17 Courses",
     },
     {
-      cover: "./images/courses/online/o12.png",
-      hoverCover: "./images/courses/online/o12.1.png",
+      cover: o12,
+      hoverCover: oo12,
       courseName: "Web Management",
       course: "17 Courses",
     },

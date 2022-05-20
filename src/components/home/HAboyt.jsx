@@ -1,14 +1,17 @@
 import React from 'react';
-import "./courses.scss";
+import Title from '../title/Title';
 
 import {coursesCard} from "../../dummyData";
 
-const CourseCard = () => {
+const HAboyt = () => {
     return (
         <>
-          <section className="courseCard">
-              <div className="container grid2">
-                    {coursesCard.map((val)=>{
+            <section className="homeAbout">
+                <div className="container">
+                    <Title subtitle="دیگر دوره ها" title="جستجوی انلاین دوره ها" />
+                <div className="courseCard">
+              <div className="grid2">
+                    {coursesCard.slice(0,3).map((val)=>{
                         return (
                         <div className="items">
                            <div className="content flex">
@@ -54,9 +57,11 @@ const CourseCard = () => {
 )
 })}
               </div>
-            </section>  
+            </div>  
+                </div>
+            </section>
         </>
     );
 };
 
-export default CourseCard;
+export default HAboyt;
