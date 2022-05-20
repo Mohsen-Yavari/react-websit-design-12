@@ -58,6 +58,19 @@ p{
   h2{
     font-weight: 500;
     font-size: 17px;
-    
+
+  }
+}
+
+.margin{
+  margin-top:60%;
+}
+
+
+@media (max-withe:768px) {
+  .back{
+    background-position: center;
+    padding-top: 50%;
+    height:80vh;
   }
 }
