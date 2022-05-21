@@ -1,10 +1,15 @@
 import React from 'react';
+import Title from "../title/Title";
+
 import {blog} from "../../dummyData";
-import "./blog.scss";
-const BlogCard = () => {
+const Hblog = () => {
     return (
         <>
-           {blog.map((val)=>(
+            <section className="blog">
+                <div className="container">
+                    <Title subtitle="وبلاگ ما" title="تازه های وبلاگ" />
+                    <div className="grid2">
+                    {blog.map((val)=>(
                <div className="items shadow">
                    <div className="img">
                        <img src={val.cover} alt="" />
@@ -29,8 +34,11 @@ const BlogCard = () => {
                    </div>
                </div>
            ))} 
+                    </div>
+                </div>
+            </section>
         </>
     );
 };
 
-export default BlogCard;
+export default Hblog;

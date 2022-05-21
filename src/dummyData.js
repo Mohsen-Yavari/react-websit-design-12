@@ -54,6 +54,16 @@ import test2 from "../src/images/testo/t2.webp";
 import test3 from "../src/images/testo/t3.webp";
 
 
+// -------img blog--------
+
+
+import b1 from "../src/images/blog/b1.webp";
+import b2 from "../src/images/blog/b2.webp";
+import b3 from "../src/images/blog/b3.webp";
+import b4 from "../src/images/blog/b4.webp";
+import b5 from "../src/images/blog/b5.webp";
+import b6 from "../src/images/blog/b6.webp";
+
 
 
 
@@ -396,57 +406,57 @@ export const homeAbout = [
   export const blog = [
     {
       id: 1,
-      type: "admin",
+      type: "لورم ایپسوم",
       date: "JAN. 18, 2021",
-      com: "3 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b1.webp",
+      com: "3نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover:b1 ,
     },
     {
       id: 2,
-      type: "admin",
+      type: "لورم ",
       date: "API. 25, 2022",
-      com: "5 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b2.webp",
+      com: "4نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover: b2,
     },
     {
       id: 3,
-      type: "user",
+      type: "لورم ایپسوم",
       date: "MAY. 15, 2022",
-      com: "10 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b3.webp",
+      com: "7نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover: b3,
     },
     {
       id: 4,
-      type: "admin",
+      type: "لورم ایپسوم",
       date: "JAN. 02, 2022",
-      com: "3 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b4.webp",
+      com: "1نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover: b4,
     },
     {
       id: 5,
-      type: "admin",
+      type: "لورم ",
       date: "DEC. 14, 2022",
-      com: "3 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b5.webp",
+      com: "10نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover: b5,
     },
     {
       id: 6,
-      type: "user",
+      type: "لورم ",
       date: "JAN. 18, 2021",
-      com: "12 COMMENTS ",
-      title: "Build your Dream Software & Engineering Career",
-      desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
-      cover: "../images/blog/b6.webp",
+      com: "14نظر ",
+      title: "لورم ایپسوم متن ساختگی با تولید سادگی ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده",
+      cover: b6,
     },
   ]
   export const testimonal = [
