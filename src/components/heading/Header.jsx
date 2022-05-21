@@ -21,6 +21,7 @@ const Header = () => {
                         <li className="nav-item"><Link className="nav-link" to="/courses">دوره ها</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/about">درباره ما</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/team">تیم ما</Link></li>
+                        <li className="nav-item"><Link className="nav-link" to="/pricing"> هزینه دوره ها</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/journal"> مجله</Link></li>
                         <li className="nav-item"><Link className="nav-link" to="/contact"> مخاطب</Link></li>
                 

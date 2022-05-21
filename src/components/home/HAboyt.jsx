@@ -8,8 +8,8 @@ const HAboyt = () => {
         <>
             <section className="homeAbout">
                 <div className="container">
-                    <Title subtitle="دیگر دوره ها" title="جستجوی انلاین دوره ها" />
-                <div className="courseCard">
+                    <Title subtitle="دیگر دوره ها" title="جستجوی انلاین دوره ها"  />
+                <div className="courseCard" >
               <div className="grid2">
                     {coursesCard.slice(0,3).map((val)=>{
                         return (

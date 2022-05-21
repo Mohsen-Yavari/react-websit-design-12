@@ -37,6 +37,21 @@ import oo10 from "../src/images/courses/online/o10.1.png";
 import oo11 from "../src/images/courses/online/o11.1.png";
 import oo12 from "../src/images/courses/online/o12.1.png";
 
+// -------img team online-----
+import t1 from "../src/images/team/t1.webp";
+import t2 from "../src/images/team/t2.webp";
+import t3 from "../src/images/team/t3.webp";
+import t4 from "../src/images/team/t4.webp";
+import t5 from "../src/images/team/t5.webp";
+import t6 from "../src/images/team/t6.webp";
+import t7 from "../src/images/team/t7.webp";
+import t8 from "../src/images/team/t8.webp";
+
+
+// -------img testimonal--------
+import test1 from "../src/images/testo/t1.webp";
+import test2 from "../src/images/testo/t2.webp";
+import test3 from "../src/images/testo/t3.webp";
 
 
 
@@ -290,43 +305,43 @@ export const homeAbout = [
   ]
   export const team = [
     {
-      cover: "./images/team/t1.webp",
-      name: "Ph.D Adrian Molises",
+      cover: t1,
+      name: "دکتر علیرضا احسانی",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t2.webp",
-      name: "Ph.D Arthur MaGregor",
+      cover:t2,
+      name: "دکتر سهیل رحیمی",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t3.webp",
-      name: "Ph.D Anna Hanzen",
+      cover: t3,
+      name: "دکتر ازیتا پناه",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t4.webp",
-      name: "Ph.D Brian Wooden",
+      cover:t4,
+      name: "دکتر رضا میریان",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t5.webp",
-      name: "Ph.D Adrian Molises",
+      cover: t5,
+      name: "دکتر نصر عابدی",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t6.webp",
-      name: "Ph.D Arthur MaGregor",
+      cover: t6,
+      name: "دکتر عبید زاکانی",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t7.webp",
-      name: "Ph.D Anna Hanzen",
+      cover: t7,
+      name: "دکتر پریوش زینت",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
     {
-      cover: "./images/team/t8.webp",
-      name: "Ph.D Brian Wooden",
+      cover:t8,
+      name: "دکتر کوروش نریمانی",
       work: "DEVELOPER AND LEAD INSTRUCTOR",
     },
   ]
@@ -437,23 +452,23 @@ export const homeAbout = [
   export const testimonal = [
     {
       id: 1,
-      name: "ROGER SCOTT",
-      post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t1.webp",
+      name: "لورم ایپسوم",
+      post: "لورم ایپسوم متن ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+      cover: test1,
     },
     {
       id: 2,
-      name: "ROGER SCOTT",
-      post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t2.webp",
+      name: "لورم ایپسوم",
+      post: "لورم ایپسوم متن ",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+      cover: test2,
     },
     {
       id: 3,
-      name: "ROGER SCOTT",
-      post: "MARKETING MANAGER",
-      desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-      cover: "./images/testo/t3.webp",
+      name: "لورم ایپسوم",
+      post: "لورم ایپسوم متن",
+      desc: "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ",
+      cover:test3,
     },
   ]
