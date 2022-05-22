@@ -13,6 +13,7 @@ import Team from "./pages/team/Team";
 import Price from "./pages/pricing/Price";
 import Blog from "./pages/blog/Blog";
 import Contact from "./pages/contact/Contact";
+import Footer from "../src/components/footer/Footer";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
       <Route path="/contact"  element={<Contact />} />
       
     </Routes>
+    <Footer />
   </BrowserRouter>
     </div>
 
